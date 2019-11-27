@@ -20,7 +20,7 @@ public class HellowJenkinsController {
     @ResponseBody
     public String test2(){
 
-        return "hellow jenkins222222222222222";
+        return "hellow jenkins2222222222222";
     }
 
 }
