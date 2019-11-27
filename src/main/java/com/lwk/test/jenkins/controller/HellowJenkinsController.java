@@ -16,5 +16,11 @@ public class HellowJenkinsController {
 
         return "hellow jenkins";
     }
+    @GetMapping("/test2")
+    @ResponseBody
+    public String test2(){
+
+        return "hellow jenkins2222222222222";
+    }
 
 }
